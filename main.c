@@ -37,5 +37,6 @@ int main() {
     }
     printf("Максимальный элемент равен: %d\n", mx);
     printf("Индекс этого элемента: %d\n", ind);
+    printf("Hello world");
     return 0;
 }
