@@ -29,6 +29,13 @@
 
 ---
 
+![alt text](images/Screenshot_5.png)
+
+**5-17.** *Видим как ветка mybranch отсоединилась от основной ветки main.
+после переключения на main file2.txt пропадает так как он находится в другой ветке*
+
+---
+
 ![alt text](images/Screenshot_.png)
 
 **9-17.** *.*
