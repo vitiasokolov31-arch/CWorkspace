@@ -37,7 +37,7 @@ int main() {
     for (i = 0; i < n; ++i) {
         printf("%d ", arr[i]);
     }
-    printf("\n"); // комментарий 2
+    printf("\n"); // комментарий 
 
     return 0; // комментарий
 }
