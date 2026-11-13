@@ -1,5 +1,6 @@
 ![git status и git log](images/Screenshot_13.png)
 
+*# №1-2*
 *Из команды `git status` можно увидеть, что мы находимся в ветке `main`, а `git log` показывает историю коммитов.*
 
 ![Файл sort.c станет Untracked](images/Screenshot_1.png)
