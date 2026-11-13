@@ -24,8 +24,8 @@ void search(char log[], char word[]) {
 }
 
 int main() {
-    char log[] = "error: disk error, then error again";
-    char word[] = "error";
+    char log[] = "error: disk error, then error again disk dis";
+    char word[] = "disk";
 
     search(log, word);
 
